@@ -6,7 +6,7 @@ I set the function  $sin(x) + x + 1$ and drew 10 data points from 0 to 6. I then
 
 ### result
 
-![regression_and_interpolation_figure1](https://github.com/ppangTae/numerical_analysis/assets/92343537/46df2a9e-67da-4274-ad6d-b739c54c6c9b)
+![regression_and_interpolation_figure1](https://github.com/ppangTae/numerical_analysis/assets/92343537/03cd7e62-7f6d-4708-98d3-09fc3bc0f6e4)
 
 ## simultaneous equations
 
@@ -22,11 +22,11 @@ The third figure shows the solution obtained by ode45 as the correct answer and 
 
 ### result
 
-![simulataneous_equations_figure1](https://github.com/ppangTae/numerical_analysis/assets/92343537/e918cb87-c3c4-4d35-a7d3-996accc254bc)
+![simulataneous_equations_figure1](https://github.com/ppangTae/numerical_analysis/assets/92343537/fdf80754-44b0-4fea-9e1f-d9d48c36d3ce)
 
-![simulataneous_equations_figure2](https://github.com/ppangTae/numerical_analysis/assets/92343537/1793b6b5-2252-483c-a843-8ee7d182a5c5)
+![simulataneous_equations_figure2](https://github.com/ppangTae/numerical_analysis/assets/92343537/d93e3b80-999d-4f0c-a56e-ad6ac999b540)
 
-![simulataneous_equations_figure3](https://github.com/ppangTae/numerical_analysis/assets/92343537/fe941196-dcfa-497e-9c39-2c7b43625aec)
+![simulataneous_equations_figure3](https://github.com/ppangTae/numerical_analysis/assets/92343537/bbfcf920-7eaf-4dad-b7aa-1036be547f9b)
 
 ## taylor approximation
 
@@ -41,6 +41,6 @@ In the second figure, I calculated the error.
 
 ### result
 
-![taylor_approximation1](https://github.com/ppangTae/numerical_analysis/assets/92343537/985e9941-6475-4be7-99c7-5571bce6da0d)
+![taylor_approximation1](https://github.com/ppangTae/numerical_analysis/assets/92343537/6709b130-ebaf-48b6-bf97-8ec02bf5bfc7)
 
-![taylor_approximation2](https://github.com/ppangTae/numerical_analysis/assets/92343537/32a2ee99-3fb0-4fc8-8010-cea3d178d99c)
+![taylor_approximation2](https://github.com/ppangTae/numerical_analysis/assets/92343537/55ea02ad-f23a-46dd-92d5-f0416ea48507)
