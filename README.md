@@ -11,9 +11,11 @@ I set the function  $sin(x) + x + 1$ and drew 10 data points from 0 to 6. I then
 ## simultaneous equations
 
 $$
-u_1' = u_2 + e^tcos(t) \\
-u_2' = -u_1 + 2e^{-t}sin(t) \\
-u_3' = -u_2 + e^{2t}sin(t) + cos(t)
+\begin{aligned}
+u_1' &= u_2 + e^tcos(t) \\
+u_2' &= -u_1 + 2e^{-t}sin(t) \\
+u_3' &= -u_2 + e^{2t}sin(t) + \cos(t)
+\end{aligned}
 $$
 
 I solved the above system of equations using Euler'method, Runge-Kutta 4th order, and ode45.
